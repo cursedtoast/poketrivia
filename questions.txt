@@ -103,7 +103,7 @@ It was originally a Pokémon from afar that escaped to the wild. It can adapt to
 A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest. ## Crawdaunt
 It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees. ## Nincada
 This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap. ## Ninjask
-A strange Pokémon—it flies without moving its wings, has a hollow shell for a body, and does not breathe. ## Shedninja
+A strange Pokémon—it flies without moving its wings, has a hollow shell for a body, and does not breathe. ## Shedinja
 Even though it is small, it can’t be ignored because it will slug any handy target without warning. ## Tyrogue
 The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick. ## Hitmonlee
 Its punches slice the air. However, it seems to need a short break after fighting for three minutes. ## Hitmonchan
@@ -215,7 +215,7 @@ It normally lives underwater. When it comes onto land in search of food, it take
 It acts as a caretaker for Dewpider, putting them inside its bubble and letting them eat any leftover food. ## Araquanid
 It tends to move in a pack with others. They cluster in a tight group to sleep in a cave. ## Wynaut
 To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack. ## Wobbuffet
-They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed. ## Farfetchd
+They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed. ## Farfetch'd
 After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food. ## Sirfetchd
 On the dark ocean floor, its only means of communication is its constantly flashing lights. ## Chinchou
 This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack. ## Lanturn
