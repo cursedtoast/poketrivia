@@ -103,7 +103,7 @@ It was originally a Pokémon from afar that escaped to the wild. It can adapt to
 A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest. ## Crawdaunt
 It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees. ## Nincada
 This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap. ## Ninjask
-A strange Pokémon—it flies without moving its wings, has a hollow shell for a body, and does not breathe. ## Shedinja
+A strange Pokémon—it flies without moving its wings, has a hollow shell for a body, and does not breathe. ## Shedninja
 Even though it is small, it can’t be ignored because it will slug any handy target without warning. ## Tyrogue
 The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick. ## Hitmonlee
 Its punches slice the air. However, it seems to need a short break after fighting for three minutes. ## Hitmonchan
@@ -215,7 +215,7 @@ It normally lives underwater. When it comes onto land in search of food, it take
 It acts as a caretaker for Dewpider, putting them inside its bubble and letting them eat any leftover food. ## Araquanid
 It tends to move in a pack with others. They cluster in a tight group to sleep in a cave. ## Wynaut
 To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack. ## Wobbuffet
-They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed. ## Farfetch'd
+They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed. ## Farfetchd
 After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food. ## Sirfetchd
 On the dark ocean floor, its only means of communication is its constantly flashing lights. ## Chinchou
 This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack. ## Lanturn
@@ -246,10 +246,10 @@ The winner of competitions between them is decided by which one has the most mal
 A pack of these Pokémon forms to serve a Bisharp boss. Each one trains diligently, dreaming of one day taking the lead. ## Pawniard
 Violent conflicts erupt between it and Fraxure over places where sharpening stones can be found. ## Bisharp
 They train in groups of five. Any member that can’t keep up will discard its belt and leave the group. ## Throh
-The karate chops of one that’s trained itself to the limit can cleave the ocean itself. # Sawk
+The karate chops of one that’s trained itself to the limit can cleave the ocean itself. ## Sawk
 It adores polluted air. Some claim that it used to be more plentiful in the Galar region than they are now. ## Koffing
-Long ago, during a time when droves of factories fouled the air with pollution, it changed into this form for some reason. ## Galarian Weezing
-These daring Pokemon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among them. ## Galarian Meowth
+Long ago, during a time when droves of factories fouled the air with pollution, it changed into this form for some reason. ## Weezing
+These daring Pokemon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among them. ## Meowth
 This Pokémon lives in dry, rocky areas. As its green spheres dry out, their dull luster increases. ## Bonsly
 	It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining. ## Sudowoodo
 	Because of its unusual, starlike silhouette, people believe that it came here on a meteor. ## Cleffa
@@ -286,119 +286,141 @@ This Pokémon lives in dry, rocky areas. As its green spheres dry out, their dul
 	It attacks using the claws on its tail. Once locked in its grip, its prey is unable to move as this Pokémon’s poison seeps in. ## Skorupi
 	It’s so vicious that it’s called the Sand Demon. Yet when confronted by Hippowdon, it keeps a low profile and will never pick a fight. ## Drapion
 	The younger the life this Pokémon absorbs, the brighter and eerier the flame on its head burns. ## Litwick
-		It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them. ## Lampent
-		In homes illuminated by this pokemon instead of lights, funerals were a constant occurrence— or so it’s said. ## Chandelure
-		By exposing foes to the blinking of its luminescent spots, this pokemon demoralizes them, and then it seizes the chance to flee. ## Inkay
-		It’s said that this pokemon's hypnotic powers played a role in certain history-changing events. ## Malamar
-		It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs. ## Sneasel
-		With its claws, it leaves behind signs for its friends to find. The number of distinct signs is said to be over 500. ## Weavile
-		It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels. ## Sableye
-		It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed. ## Mawile
-		Once each year, this Pokémon scatters its seeds. They’re jam-packed with nutrients, making them a precious food source out in the desert. ## Maractus
-		A discovery was made in the desert where these pokemon fly. The ruins of what may have been an ancient city were found beneath the sands. ## Sigilyph
-		It can use waves called auras to gauge how others are feeling. These same waves can also tell this Pokémon about the state of the environment. ## Riolu
-		It can tell what people are thinking. Only Trainers who have justice in their hearts can earn this Pokémon’s trust. ## Lucario
-		You find abandoned coal mines full of them. They dig tirelessly in search of coal. ## Torkoal
-		There was a scientist who peeked under Mimikyu’s old rag in the name of research. The scientist died of a mysterious disease. ## Mimikyu
-		If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color. ## Cufant
-		These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder. ## Copperajah
-		The small spikes covering its body developed from scales. They inject a toxin that causes fainting. ## Qwilfish
-		Legend has it that the residents of a sunken ancient city changed into these Pokémon. ## Frillish
-		Whenever a full moon hangs in the night sky, schools of these pokemon gather near the surface of the sea, waiting for their prey to appear. ## Jellicent
-		Unlike their Alolan counterparts, these pokemon of the Galar region have not yet figured out that the branches of Corsola are delicious. ## Mareanie
-		Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect. ## Toxapex
-		This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey. ## Cramorant
-		It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis. ## Toxel
-		It has an electrical organ on its chest. While generating electricity, it fills its surroundings with what sounds like the strumming of a bass guitar. ## Toxtricity
-		This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain. ## Toxtricity
-		It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide. ## Silicobra
-		Its unique style of coiling allows it to blast sand out of its sand sac more efficiently. ## Sandaconda
-		This Pokémon is active during the day and passes the cold desert nights burrowed snugly into the sand. ## Hippopotas
-		When roused to violence by its rage, it spews out the quantities of sand it has swallowed and whips up a sandstorm. ## Hippowdon
-		With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda. ## Durant
-		A flame serves as its tongue, melting through the hard shell of Durant so that it can devour their insides. ## Heatmor
-		The sun powers this Pokémon’s electricity generation. Interruption of that process stresses it to the point of weakness. ## Helioptile
-		One of these pokemon basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city. ## Heliolisk
-		It always strikes a pose before going for its finishing move. Sometimes opponents take advantage of that time to counterattack. ## Hawlucha
-		It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down. ## Trapinch
-		To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day. ## Vibrava
-		It is nicknamed the Desert Spirit because the flapping of its wings sounds like a woman singing. ## Flygon
-		They play with each other by knocking their large tusks together. Their tusks break sometimes, but they grow back so quickly that it isn’t a concern. ## Axew
-		Its skin is as hard as a suit of armor. Its favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time. ## Fraxure
-		While usually kindhearted, it can be terrifying if angered. Tusks that can slice through steel beams are how it deals with its adversaries. ## Haxorus
-		It's said that this Pokemon was formed when an ancient clay tablet was drawn to a vengeful spirit. ## Yamask
-		The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face. ## Yamask
-		Never touch its shadowlike body, or you’ll be shown the horrific memories behind the picture carved into it. ## Runerigus
-		There are many depictions of it decorating ancient tombs. They’re symbols of the wealth that kings of bygone eras had. ## Cofagrigus
-		The blue eye on the sword’s handguard is the true body of this pokemon. With its old cloth, it drains people’s lives away. ## Honedge
-		The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey. ## Doublade
-		Its potent spectral powers allow it to manipulate others. It once used its powers to force people and Pokémon to build a kingdom to its liking. ## Aegislash
-		This Pokemon will look into your eyes and read the contens of your heart. If it finds evil there, it promptly hides away. ## Ponyta
-		Brave and prideful, this pokemon dashes airily through the forest, its steps aided by the psychic power stored in the fur of its fetlocks. ## Rapidash
-		The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation. ## Sinistea
-		Leaving leftover black tea unattended is asking for this Pokémon to come along and pour itself into it, turning the tea into a new one of these pokemon. ## Polteageist
-		Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength. ## Indeedee
-		With a voice like a human child’s, it cries out to lure adults deep into the forest, getting them lost among the trees. ## Phantump
-		Small roots that extend from the tips of this Pokémon’s feet can tie into the trees of the forest and give this pokemon control over them. ## Trevenant
-		These pokemon live in forests that stay dark even during the day. They scatter flickering spores that put enemies to sleep. ## Morelull
-		If you see a light deep in a forest at night, don’t go near. It will make you fall fast asleep. ## Shiinotic
-		It knows the forest inside and out. If it comes across a wounded Pokémon, it will gather medicinal herbs to treat it. ## Oranguru
-		They live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives. ## Passimian
-		It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order. ## Morpeko
-		The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight. ## Falinks
-		It is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around. ## Drampa
-		Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive. ## Turtonator
-		When it’s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately. ## Togedemaru
-		It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow. ## Snom
-		It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away. ## Frosmoth
-		Its tentacles tear off easily, but it isn’t alarmed when that happens—it knows they’ll grow back. It’s about as smart as a three-year-old. ## Clobbopus
-		Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea. ## Grapploct
-		It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours. ## Pincurchin
-		It swims along with a school of Remoraid, and they’ll all fight together to repel attackers. ## Mantyke
-		As it majestically swims, it doesn’t care if Remoraid attach to it to scavenge for its leftovers. ## Mantine
-		When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily. ## Wailmer
-		Its immense size is the reason for its popularity. Watching this pokemon is a favorite sightseeing activity in various parts of the world. ## Wailord
-		This Pokémon lives in areas of frigid cold. It secures itself to the back of an Avalugg by freezing its feet in place. ## Bergmite
-		As this pokemon moves about during the day, the cracks in its body deepen. The Pokémon’s body returns to a pristine state overnight. ## Avalugg
-		After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force. ## Dhelmise
-		Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch. ## Lapras
-		It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep. ## Lunatone
-		Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines. ## Solrock
-		It looks for a Mr. Rime that’s a good dancer and carefully copies the Mr. Rime’s steps like an apprentice. ## Mime Jr
-		It can radiate chilliness from the bottoms of its feet. It'll spend the whole day tap-dancing on a frozen floor. ## Mr Mime ## Mr. Mime
-		Its amusing movements make it very popular. It releases its psychic power fromt he pattern on its belly. ## Mr Rime ## Mr. Rime
-		This popular symbol of good fortune will never fall over in its sleep, no matter how it’s pushed or pulled. ## Darumaka
-		This Pokémon’s power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit. ## Darmanitan
-		Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle. ## Stonejourner
-		This Pokémon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey. ## Eiscue
-		The special metal that composes its body is very light, so this Pokémon has considerable agility. It lives in caves because it dislikes the rain. ## Duraludon
-		With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others. ## Rotom
-		When it encounters another of its kind, it will move faster than normal to duplicate that opponent exactly. ## Ditto
-		The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small. ## Dracozolt
-		This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly. ## Arctozolt
-		Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can’t breathe unless it’s underwater. ## Dracovish
-		The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway. ## Arctovish
-		From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out. ## Charmander
-		If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings. ## Charmeleon
-		Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures. ## Charizard
-		It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control. ## Type Null
-		The final factor needed to release this Pokémon’s true power was a strong bond with a Trainer it trusts. ## Silvally
-		t feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow. ## Larvitar
-		It will not stay still, even while it’s a pupa. It already has arms and legs under its solid shell. ## Pupitar
-		The quakes caused when it walks make even great mountains crumble and change the surrounding terrain. ## Tyranitar
-		Because it can’t see, this Pokémon is constantly biting at everything it touches, trying to keep track of its surroundings. ## Deino
-		Their two heads will fight each other over a single piece of food. These pokemon are covered in scars even without battling others. ## Zweilous
-		The three heads take turns sinking their teeth into the opponent. Their attacks won’t slow until their target goes down. ## Hydreigon
-		Their horns are powerful sensors. As soon as they pick up any sign of enemies, they go into hiding. This is how they’ve survived. ## Goomy
-		The lump on its back contains its tiny brain. It thinks only of food and escaping its enemies. ## Sliggoo
-		Its form of offense is forcefully stretching out its horns. The strikes land 100 times harder than any blow from a heavyweight boxer. ## Goodra
-		It strikes its scales to communicate with others of its kind. Its scales are actually fur that’s become as hard as metal. ## Jangmo-o ## Jangmoo
-			Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition. ## Hakamo-o ## Hakamoo
-			Certain ruins have paintings of ancient warriors wearing armor made of this pokemon's scales. ## Kommo-o ## Kommoo
-			If this weak Pokémon is by itself, a mere child could defeat it. But if it has friends to help it train, it can evolve and become much stronger. ## Dreepy
-			Without a Dreepy to place on its head and care for, it gets so uneasy it’ll try to substitute any Pokémon it finds for the missing Dreepy. ## Drakloak
-			Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds. ## Dragapult
-			This Pokémon has slumbered for many years. Some say it’s Zamazenta’s elder sister—others say the two Pokémon are rivals. ## Zacian
-			This Pokémon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed. ## Zamazenta
-			It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon. ## Eternatus
+	It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them. ## Lampent
+	In homes illuminated by this pokemon instead of lights, funerals were a constant occurrence— or so it’s said. ## Chandelure
+	By exposing foes to the blinking of its luminescent spots, this pokemon demoralizes them, and then it seizes the chance to flee. ## Inkay
+	It’s said that this pokemon's hypnotic powers played a role in certain history-changing events. ## Malamar
+	It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs. ## Sneasel
+	With its claws, it leaves behind signs for its friends to find. The number of distinct signs is said to be over 500. ## Weavile
+	It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels. ## Sableye
+	It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed. ## Mawile
+	Once each year, this Pokémon scatters its seeds. They’re jam-packed with nutrients, making them a precious food source out in the desert. ## Maractus
+	A discovery was made in the desert where these pokemon fly. The ruins of what may have been an ancient city were found beneath the sands. ## Sigilyph
+	It can use waves called auras to gauge how others are feeling. These same waves can also tell this Pokémon about the state of the environment. ## Riolu
+	It can tell what people are thinking. Only Trainers who have justice in their hearts can earn this Pokémon’s trust. ## Lucario
+	You find abandoned coal mines full of them. They dig tirelessly in search of coal. ## Torkoal
+	There was a scientist who peeked under Mimikyu’s old rag in the name of research. The scientist died of a mysterious disease. ## Mimikyu
+	If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color. ## Cufant
+	These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder. ## Copperajah
+	The small spikes covering its body developed from scales. They inject a toxin that causes fainting. ## Qwilfish
+	Legend has it that the residents of a sunken ancient city changed into these Pokémon. ## Frillish
+	Whenever a full moon hangs in the night sky, schools of these pokemon gather near the surface of the sea, waiting for their prey to appear. ## Jellicent
+	Unlike their Alolan counterparts, these pokemon of the Galar region have not yet figured out that the branches of Corsola are delicious. ## Mareanie
+	Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect. ## Toxapex
+	This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey. ## Cramorant
+	It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis. ## Toxel
+	It has an electrical organ on its chest. While generating electricity, it fills its surroundings with what sounds like the strumming of a bass guitar. ## Toxtricity
+	This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain. ## Toxtricity
+	It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide. ## Silicobra
+	Its unique style of coiling allows it to blast sand out of its sand sac more efficiently. ## Sandaconda
+	This Pokémon is active during the day and passes the cold desert nights burrowed snugly into the sand. ## Hippopotas
+	When roused to violence by its rage, it spews out the quantities of sand it has swallowed and whips up a sandstorm. ## Hippowdon
+	With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda. ## Durant
+	A flame serves as its tongue, melting through the hard shell of Durant so that it can devour their insides. ## Heatmor
+	The sun powers this Pokémon’s electricity generation. Interruption of that process stresses it to the point of weakness. ## Helioptile
+	One of these pokemon basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city. ## Heliolisk
+	It always strikes a pose before going for its finishing move. Sometimes opponents take advantage of that time to counterattack. ## Hawlucha
+	It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down. ## Trapinch
+	To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day. ## Vibrava
+	It is nicknamed the Desert Spirit because the flapping of its wings sounds like a woman singing. ## Flygon
+	They play with each other by knocking their large tusks together. Their tusks break sometimes, but they grow back so quickly that it isn’t a concern. ## Axew
+	Its skin is as hard as a suit of armor. Its favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time. ## Fraxure
+	While usually kindhearted, it can be terrifying if angered. Tusks that can slice through steel beams are how it deals with its adversaries. ## Haxorus
+	It's said that this Pokemon was formed when an ancient clay tablet was drawn to a vengeful spirit. ## Yamask
+	The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face. ## Yamask
+	Never touch its shadowlike body, or you’ll be shown the horrific memories behind the picture carved into it. ## Runerigus
+	There are many depictions of it decorating ancient tombs. They’re symbols of the wealth that kings of bygone eras had. ## Cofagrigus
+	The blue eye on the sword’s handguard is the true body of this pokemon. With its old cloth, it drains people’s lives away. ## Honedge
+	The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey. ## Doublade
+	Its potent spectral powers allow it to manipulate others. It once used its powers to force people and Pokémon to build a kingdom to its liking. ## Aegislash
+	This Pokemon will look into your eyes and read the contens of your heart. If it finds evil there, it promptly hides away. ## Ponyta
+	Brave and prideful, this pokemon dashes airily through the forest, its steps aided by the psychic power stored in the fur of its fetlocks. ## Rapidash
+	The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation. ## Sinistea
+	Leaving leftover black tea unattended is asking for this Pokémon to come along and pour itself into it, turning the tea into a new one of these pokemon. ## Polteageist
+	Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength. ## Indeedee
+	With a voice like a human child’s, it cries out to lure adults deep into the forest, getting them lost among the trees. ## Phantump
+	Small roots that extend from the tips of this Pokémon’s feet can tie into the trees of the forest and give this pokemon control over them. ## Trevenant
+	These pokemon live in forests that stay dark even during the day. They scatter flickering spores that put enemies to sleep. ## Morelull
+	If you see a light deep in a forest at night, don’t go near. It will make you fall fast asleep. ## Shiinotic
+	It knows the forest inside and out. If it comes across a wounded Pokémon, it will gather medicinal herbs to treat it. ## Oranguru
+	They live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives. ## Passimian
+	It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order. ## Morpeko
+	The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight. ## Falinks
+	It is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around. ## Drampa
+	Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive. ## Turtonator
+	When it’s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately. ## Togedemaru
+	It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow. ## Snom
+	It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away. ## Frosmoth
+	Its tentacles tear off easily, but it isn’t alarmed when that happens—it knows they’ll grow back. It’s about as smart as a three-year-old. ## Clobbopus
+	Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea. ## Grapploct
+	It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours. ## Pincurchin
+	It swims along with a school of Remoraid, and they’ll all fight together to repel attackers. ## Mantyke
+	As it majestically swims, it doesn’t care if Remoraid attach to it to scavenge for its leftovers. ## Mantine
+	When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily. ## Wailmer
+	Its immense size is the reason for its popularity. Watching this pokemon is a favorite sightseeing activity in various parts of the world. ## Wailord
+	This Pokémon lives in areas of frigid cold. It secures itself to the back of an Avalugg by freezing its feet in place. ## Bergmite
+	As this pokemon moves about during the day, the cracks in its body deepen. The Pokémon’s body returns to a pristine state overnight. ## Avalugg
+	After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force. ## Dhelmise
+	Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch. ## Lapras
+	It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep. ## Lunatone
+	Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines. ## Solrock
+	It looks for a Mr. Rime that’s a good dancer and carefully copies the Mr. Rime’s steps like an apprentice. ## Mime Jr
+	It can radiate chilliness from the bottoms of its feet. It'll spend the whole day tap-dancing on a frozen floor. ## Mr Mime ## Mr. Mime
+	Its amusing movements make it very popular. It releases its psychic power fromt he pattern on its belly. ## Mr Rime ## Mr. Rime
+	This popular symbol of good fortune will never fall over in its sleep, no matter how it’s pushed or pulled. ## Darumaka
+	This Pokémon’s power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit. ## Darmanitan
+	Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle. ## Stonjourner
+	This Pokémon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey. ## Eiscue
+	The special metal that composes its body is very light, so this Pokémon has considerable agility. It lives in caves because it dislikes the rain. ## Duraludon
+	With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others. ## Rotom
+	When it encounters another of its kind, it will move faster than normal to duplicate that opponent exactly. ## Ditto
+	The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small. ## Dracozolt
+	This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly. ## Arctozolt
+	Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can’t breathe unless it’s underwater. ## Dracovish
+	The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway. ## Arctovish
+	From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out. ## Charmander
+	If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings. ## Charmeleon
+	Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures. ## Charizard
+	It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control. ## Type Null
+	The final factor needed to release this Pokémon’s true power was a strong bond with a Trainer it trusts. ## Silvally
+	It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow. ## Larvitar
+	It will not stay still, even while it’s a pupa. It already has arms and legs under its solid shell. ## Pupitar
+	The quakes caused when it walks make even great mountains crumble and change the surrounding terrain. ## Tyranitar
+	Because it can’t see, this Pokémon is constantly biting at everything it touches, trying to keep track of its surroundings. ## Deino
+	Their two heads will fight each other over a single piece of food. These pokemon are covered in scars even without battling others. ## Zweilous
+	The three heads take turns sinking their teeth into the opponent. Their attacks won’t slow until their target goes down. ## Hydreigon
+	Their horns are powerful sensors. As soon as they pick up any sign of enemies, they go into hiding. This is how they’ve survived. ## Goomy
+	The lump on its back contains its tiny brain. It thinks only of food and escaping its enemies. ## Sliggoo
+	Its form of offense is forcefully stretching out its horns. The strikes land 100 times harder than any blow from a heavyweight boxer. ## Goodra
+	It strikes its scales to communicate with others of its kind. Its scales are actually fur that’s become as hard as metal. ## Jangmo-o ## Jangmoo
+	Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition. ## Hakamo-o ## Hakamoo
+	Certain ruins have paintings of ancient warriors wearing armor made of this pokemon's scales. ## Kommo-o ## Kommoo
+	If this weak Pokémon is by itself, a mere child could defeat it. But if it has friends to help it train, it can evolve and become much stronger. ## Dreepy
+	Without a Dreepy to place on its head and care for, it gets so uneasy it’ll try to substitute any Pokémon it finds for the missing Dreepy. ## Drakloak
+	Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds. ## Dragapult
+	This Pokémon has slumbered for many years. Some say it’s Zamazenta’s elder sister—others say the two Pokémon are rivals. ## Zacian
+	This Pokémon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed. ## Zamazenta
+	It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon. ## Eternatus
+	Who is the Grass Gym Leader? ## Milo
+	Who is the Water Gym Leader? ## Nessa
+	Who is the Fire Gym Leader? ## Kabu
+	Who is the Ghost Gym Leader? ## Allister
+	Who is the Fighting Gym Leader? ## Bea
+	Who is the Fairy Gym Leader? ## Opal ## Bede
+	Who is the Ice Gym Leader? ## Melony
+	Who is the Rock Gym Leader? ## Gordie
+	Who is the Dark Gym Leader? ## Piers ## Marnie
+	Who is the Dragon Gym Leader? ## Raihan
+	What pokemon was the special raid boss in the wild area for New Year's 2020 event? ## Magikarp
+	What is FoxyOwlSelenity's favorite new pokemon in Sword and Shield? ## Thievul
+	What city do you buy Dive balls? ## Hammerlocke
+	What city do you buy Dusk Balls? ## Hammerlocke
+	What city do you buy Heal Balls? ## Motostoke
+	What city do you buy Luxury Balls? ## Wyndon
+	What city do you buy Nest Balls? ## Motostoke
+	What city do you buy Net Balls? ## Motostoke
+	What city do you buy Quick Balls? ## Wyndon
+	What city do you buy Repeat Balls? ## Wyndon
+	What city do you buy Timer Balls? ## Hammerlocke
+	
 			
